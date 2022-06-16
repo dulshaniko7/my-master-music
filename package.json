@@ -12,6 +12,7 @@
   "dependencies": {
     "autoprefixer": "^9",
     "core-js": "^3.6.5",
+    "firebase": "^9.8.3",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vee-validate": "^4.5.11",
